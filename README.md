@@ -1,4 +1,4 @@
-# This is a simple database analysis for Restaurants sales data from scratch
+# A simple Data analysis project for Restaurants sales data (building from scratch)
 
 ### Python Notbook outlines
 
