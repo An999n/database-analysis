@@ -3,7 +3,7 @@
 ### Python Notbook outlines
 
 * Project preparation "inetial.ipynb"
-  1. Importing the required libraries
+ 1. Importing the required libraries
     2. Initialize needed functions
     3. Initialize Important variables
 * Building the database:
