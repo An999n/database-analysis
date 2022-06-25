@@ -23,4 +23,4 @@
 * Creating dashboards to visualize findings & insights
 
 Monthly Sales Per restaurant Dashboard [Visit] (https://public.tableau.com/app/profile/khaled4192/viz/ElMenus_test_Monthly__restaurant_Analysis/Dashboard1)
-Sales Per area Dashboard [Go To] (https://public.tableau.com/app/profile/khaled4192/viz/ElMenus_test_Area-Analysis/AreasDashboard)
+
