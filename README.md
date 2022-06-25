@@ -22,5 +22,5 @@
 * Loading "Restaurant_data.xlsx" file into Tableau
 * Creating dashboards to visualize findings & insights
 
-Monthly Sales Per restaurant Dashboard [as dasd asdad] (https://public.tableau.com/app/profile/khaled4192/viz/ElMenus_test_Monthly__restaurant_Analysis/Dashboard1)
-Sales Per area Dashboard [Gosdr gj] (https://public.tableau.com/app/profile/khaled4192/viz/ElMenus_test_Area-Analysis/AreasDashboard)
+Monthly Sales Per restaurant Dashboard [loly] (https://public.tableau.com/app/profile/khaled4192/viz/ElMenus_test_Monthly__restaurant_Analysis/Dashboard1 "loly")
+Sales Per area Dashboard [leli] (https://public.tableau.com/app/profile/khaled4192/viz/ElMenus_test_Area-Analysis/AreasDashboard "leli")
