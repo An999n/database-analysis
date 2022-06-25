@@ -2,7 +2,7 @@
 
 ## The Project is consist of:-
 
-#### Python Notbook outlines
+### Python Notbook outlines
 
 * Project preparation "inetial.ipynb"
     1. Importing the required libraries
@@ -19,7 +19,7 @@
     - Loading query result into a dataframe
 * Loading Dataframe tables into external Excel file "Restaurant_data.xlsx"
 
-#### Tableau outlines
+### Tableau outlines
 
 * Loading "Restaurant_data.xlsx" file into Tableau
 * Creating dashboards to visualize findings & insights
