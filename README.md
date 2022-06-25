@@ -4,8 +4,8 @@
 
 * Project preparation "inetial.ipynb"
  1. Importing the required libraries
-    2. Initialize needed functions
-    3. Initialize Important variables
+  2. Initialize needed functions
+  3. Initialize Important variables
 * Building the database:
     1. Creating relational database tables "tables.db"
     2. Filling database tables with random values
