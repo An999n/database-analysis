@@ -3,9 +3,9 @@
 ### Python Notbook outlines
 
 * Project preparation "inetial.ipynb"
-  1. Importing the required libraries
-  2. Initialize needed functions
- 3. Initialize Important variables
+    1. Importing the required libraries
+    2. Initialize needed functions
+    3. Initialize Important variables
 * Building the database:
     1. Creating relational database tables "tables.db"
     2. Filling database tables with random values
@@ -21,5 +21,5 @@
 
 * Loading "Restaurant_data.xlsx" file into Tableau
 * Creating dashboards to visualize findings & insights
-    - Monthly Sales Per restaurant Dashboard ![Link] (https://public.tableau.com/app/profile/khaled4192/viz/ElMenus_test_Monthly__restaurant_Analysis/Dashboard1)
-    - Sales Per area Dashboard ![Link] (https://public.tableau.com/app/profile/khaled4192/viz/ElMenus_test_Area-Analysis/AreasDashboard)
+    - Monthly Sales Per restaurant Dashboard [Visit] (https://public.tableau.com/app/profile/khaled4192/viz/ElMenus_test_Monthly__restaurant_Analysis/Dashboard1)
+    - Sales Per area Dashboard [Go To] (https://public.tableau.com/app/profile/khaled4192/viz/ElMenus_test_Area-Analysis/AreasDashboard)
