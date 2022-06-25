@@ -1,7 +1,5 @@
 # This is a simple database analysis for Restaurants sales data from scratch
 
-## The Project is consist of:-
-
 ### Python Notbook outlines
 
 * Project preparation "inetial.ipynb"
@@ -23,5 +21,5 @@
 
 * Loading "Restaurant_data.xlsx" file into Tableau
 * Creating dashboards to visualize findings & insights
-    - Monthly Sales Per restaurant Dashboard [Link] (https://public.tableau.com/app/profile/khaled4192/viz/ElMenus_test_Monthly__restaurant_Analysis/Dashboard1)
+    - Monthly Sales Per restaurant Dashboard [test] (https://public.tableau.com/app/profile/khaled4192/viz/ElMenus_test_Monthly__restaurant_Analysis/Dashboard1)
     - Sales Per area Dashboard [Link] (https://public.tableau.com/app/profile/khaled4192/viz/ElMenus_test_Area-Analysis/AreasDashboard)
